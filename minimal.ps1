@@ -146,12 +146,12 @@ $tweaks = @(
 	"HideMusicFromExplorer",      # "ShowMusicInExplorer",
 	# "HidePicturesFromThisPC",       # "ShowPicturesInThisPC",
 	# "HidePicturesFromExplorer",   # "ShowPicturesInExplorer",
-	"ShowVideosInThisPC",						# "HideVideosFromThisPC",
-	"ShowVideosInExplorer",					#"HideVideosFromExplorer",
+	# "ShowVideosInThisPC",						# "HideVideosFromThisPC",
+	# "ShowVideosInExplorer",					#"HideVideosFromExplorer",
 	"Hide3DObjectsFromThisPC",      # "Show3DObjectsInThisPC",
 	"Hide3DObjectsFromExplorer",  # "Show3DObjectsInExplorer",
 	# "DisableThumbnails",          # "EnableThumbnails",
-	# "DisableThumbsDB",              # "EnableThumbsDB",
+	"DisableThumbsDB",              # "EnableThumbsDB",
 
 	### Application Tweaks ###
     # "EnableOneDrive",
